@@ -1,0 +1,10 @@
+#root {
+    position: absolute;
+    inset: 0;
+  }
+  
+  div.map-container {
+    position: absolute;
+    inset: 0;
+  }
+  
